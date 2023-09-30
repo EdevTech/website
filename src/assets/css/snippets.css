@@ -18,7 +18,7 @@ summary {
 
 code[class*="language-"],
 pre[class*="language-"] {
-  color: #00221C;
+  color: #3D95CE;
   font-size: .9375em;
   margin: 0;
   white-space: pre-wrap;
@@ -206,7 +206,7 @@ div.code-toolbar > .toolbar button:focus,
 div.code-toolbar > .toolbar span:hover,
 div.code-toolbar > .toolbar span:focus {
   color: #fff;
-  background-color: #008060;
+  background-color: #3D95CE;
 }
 
 /* Light Theme  */
@@ -223,8 +223,8 @@ div.code-toolbar > .prism-light + .toolbar button:hover,
 div.code-toolbar > .prism-light + .toolbar button:focus,
 div.code-toolbar > .prism-light + .toolbar span:hover,
 div.code-toolbar > .prism-light + .toolbar span:focus {
-  color: #00221C;
-  background-color: #008060;
+  color: #3D95CE;
+  background-color: #3D95CE;
 }
 
 /* AnchorJS Link */
@@ -279,7 +279,7 @@ div.code-toolbar > .prism-light + .toolbar span:focus {
 
 .hs-docs-copy-to-clipboard:hover .hs-docs-copy-to-clipboard-text {
   color: #fff;
-  background-color: #008060;
+  background-color: #3D95CE;
 }
 
 

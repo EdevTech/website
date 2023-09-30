@@ -16,8 +16,8 @@
 <rect x="37" y="30" width="18" height="2" rx="1" fill="#D9DDEA"/>
 <rect x="103" y="30" width="19" height="2" rx="1" fill="#D9DDEA"/>
 <rect x="37.5" y="35.5" width="59" height="10" rx="1.5" stroke="#D9DDEA"/>
-<rect x="108" y="40" width="50" height="1" rx="0.5" fill="#008060"/>
-<rect x="103.5" y="35.5" width="59" height="10" rx="1.5" stroke="#008060"/>
+<rect x="108" y="40" width="50" height="1" rx="0.5" fill="#3D95CE"/>
+<rect x="103.5" y="35.5" width="59" height="10" rx="1.5" stroke="#3D95CE"/>
 <path d="M0 104H200V140C200 142.209 198.209 144 196 144H4C1.79086 144 0 142.209 0 140V104Z" fill="url(#paint0_linear)"/>
 </g>
 <defs>
